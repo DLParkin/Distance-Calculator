@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 /// <summary>
 /// Convert measurements to different types based on user input.
-/// By: David Parkin
+/// By: David
 /// Date: 24/03/2018
 /// </summary>
 namespace Distance_Converter
